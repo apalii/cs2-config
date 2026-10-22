@@ -23,6 +23,7 @@ My `binds.cfg` for Counter-Strike 2 (sensitivity, viewmodel, binds, F1–F12 buy
 | Zoom ratio | 1 |
 | Crosshair | style 4, size 1, yellow (255 222 0), outline |
 | Viewmodel | fov 68, x 2.5, y 0, z -1.5 |
+| First-person bullet tracers | Enabled (`r_drawtracers_firstperson 1`) |
 
 ## Graphics
 
